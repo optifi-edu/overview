@@ -22,12 +22,12 @@ https://kbaji.gitbook.io/optifinance
 ## Repositories
 Here are the links of all repositories:
 
-**optiFi Web:** [https://github.com/opti-fi/opti-web](https://github.com/optifi-edu/web)
+**optiFi Web:** [https://github.com/optifi-edu/web](https://github.com/optifi-edu/web)
 
-**optiFi Backend:** [https://github.com/opti-fi/opti-backend](https://github.com/optifi-edu/backend)
+**optiFi Backend:** [https://github.com/optifi-edu/backend](https://github.com/optifi-edu/backend)
 
-**optiFi Smart Contract:** [https://github.com/opti-fi/opti-sc](https://github.com/optifi-edu/sc)
+**optiFi Smart Contract:** [https://github.com/optifi-edu/sc](https://github.com/optifi-edu/sc)
 
-**optiFi Agent:** [https://github.com/opti-fi/opti-agents](https://github.com/optifi-edu/agent)
+**optiFi Agent:** [https://github.com/optifi-edu/agent](https://github.com/optifi-edu/agent)
 
-**optiFi Subgraph:** [https://github.com/opti-fi/opti-subgraph](https://github.com/optifi-edu/subgraph)
+**optiFi Subgraph:** [https://github.com/optifi-edu/subgraph](https://github.com/optifi-edu/subgraph)
