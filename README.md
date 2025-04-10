@@ -17,7 +17,7 @@ Here's optiFi website link: [https://opti-finance.vercel.app/](https://optifi.ve
 
 ## Documentation
 For more details about optiFi, you can read the documentation here:
-https://kbaji.gitbook.io/optifinance
+[https://kbaji.gitbook.io/optifinance](https://kbaji.gitbook.io/optifi-educhain)
 
 ## Repositories
 Here are the links of all repositories:
